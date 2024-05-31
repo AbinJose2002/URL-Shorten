@@ -1,0 +1,9 @@
+@media screen and (min-width: 768px) {
+    .home-head {
+         font-size: 2em !important;
+     }
+ }
+
+ .home-head {
+    font-size: 5em !important;
+}
