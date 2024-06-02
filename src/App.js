@@ -9,7 +9,7 @@ import Footer from './Footer.js'
 function App() {
   return(
     <div>
-      <Navbar/>
+      <Navbar title='link'/>
       <Banner/>
       <LinkField/>
       <Advanced/>
